@@ -57,7 +57,7 @@ Basic routes have been defined in `routes/web.php` to serve each of the converte
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-link>
+    git clone https://github.com/md-anisujjaman-bd/Blade-Template-Mastering.git
     cd blog-template
     ```
 2.  **Install Composer dependencies:**
